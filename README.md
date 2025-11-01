@@ -25,13 +25,15 @@ The dashboard also provides future weather trend predictions using Power BI’s 
 
 ⚡ Powered by Weather API & Power BI Integration
 
-🧠 Tech Stack
-Tool	                               Purpose
-Power BI	                      Data visualization and forecasting
-Power Query	                    Data cleaning and transformation
-DAX                     	      Data modeling and calculations
-Weather API (OpenWeatherMap)	  Real-time weather data
-Excel / CSV / JSON	            Data storage and integration
+### 💗 Tech Stack  
+
+| Tool | Purpose |
+|------|----------|
+| **Power BI** | Data visualization and forecasting |
+| **Power Query** | Data cleaning and transformation |
+| **DAX** | Data modeling and calculations |
+| **Weather API (OpenWeatherMap)** | Real-time weather data |
+| **Excel / CSV / JSON** | Data storage and integration |
 
 Who Should Use This Dashboard
 
