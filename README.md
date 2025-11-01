@@ -55,4 +55,4 @@ Update your API key and refresh the data
 Explore live dashboards and forecast visuals
 
 
-![Dashbord]()
+![Dashbord](https://github.com/dstar211/Weather-Dashbord/blob/main/weather.png)
