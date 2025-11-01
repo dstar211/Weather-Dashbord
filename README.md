@@ -53,3 +53,6 @@ Clone or download this repository
 Open the .pbix file in Power BI Desktop
 Update your API key and refresh the data
 Explore live dashboards and forecast visuals
+
+
+![Dashbord]()
